@@ -2,7 +2,9 @@
 
 这是一个功能强大的 Python 脚本，旨在从开放的 Web 目录中批量递归下载文件。它特别为下载大量 Mod 或其他文件集而优化，内置了对大文件的多线程分块下载支持，并提供了一个简单易用的命令行交互界面。
 
-![脚本主菜单截图](https://github.com/Hfugghg/download_mods/blob/main/Screenshot/1.png?raw=true)  ## ✨ 主要特性
+![脚本主菜单截图](https://github.com/Hfugghg/download_mods/blob/main/Screenshot/1.png?raw=true)  
+
+## ✨ 主要特性
 
 - **递归目录扫描**: 自动扫描指定 URL 下的所有子目录，发现并下载全部文件。
 - **智能下载策略**:
