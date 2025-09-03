@@ -35,8 +35,8 @@
 
 2.  **克隆或下载本仓库**:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/Hfugghg/download_mods.git
+    cd download_mods
     ```
     或者直接下载 `download_mods.py` 文件。
 
